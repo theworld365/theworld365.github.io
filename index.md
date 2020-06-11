@@ -1,23 +1,32 @@
-# Welcome to TheWorld365 Data Science - A Journey
+# TheWorld365 Data Science - A Journey
 
-This is a repo for the purpose of documenting my journey throughout the Data Science landscape.
+This is a repo for the purpose of documenting my journey. Enjoy.
 
-## Contact Me
+### Contact Me
 - [Linkedin](https://www.linkedin.com/in/nunoroberto/)
 - [@TheWorld365](https://twitter.com/theworld365)
 - [Flickr](http://www.flickr.com/photos/theworld365/)
 
-## Books I Read
+### Shortcuts
+[Books I Read Available on Amazon](https://theworld365.github.io/#books-i-read-avaialble-on-amazon)
+[Education](https://theworld365.github.io/#education)
+[Header 1](https://theworld365.github.io/#header-1)
 
-## Blogs I Follow
+### Books I Read Available on Amazon
 
-## Tools and Services I use
+### Books in PDF format
 
-## Public Datasets
+### Blogs I Follow
 
-## Certifications
+### Cool AWS Articles
 
-## Education
+### Tools and Services I use
+
+### Public Datasets
+
+### Certifications
+
+### Education
 
 ### ------------------------
 
