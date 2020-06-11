@@ -3,12 +3,12 @@
 This is a repo for the purpose of documenting my journey. Enjoy.
 
 ### Contact Me
-[Linkedin](https://www.linkedin.com/in/nunoroberto/){target="_blank"} || [@TheWorld365](https://twitter.com/theworld365){target="_blank"} || [Flickr](http://www.flickr.com/photos/theworld365/){target="_blank"}
+[Linkedin](https://www.linkedin.com/in/nunoroberto/){:target="_blank"} | [@TheWorld365](https://twitter.com/theworld365){:target="_blank"} | [Flickr](http://www.flickr.com/photos/theworld365/){:target="_blank"}
 
 ### Shortcuts
-- [Books I Read Available on Amazon](https://theworld365.github.io#Books-I-Read-Available-On-Amazon)
+- [Books I Read Available on Amazon](https://theworld365.github.io#books-i-read-available-on-amazon)
 - [Education](https://theworld365.github.io#education)
-- [Header 1](https://theworld365.github.io#Header-1)
+- [Header 1](https://theworld365.github.io#header-1)
 
 ### Books I Read Available on Amazon
 
