@@ -3,11 +3,9 @@
 This is a repo for the purpose of documenting my journey throughout the Data Science landscape.
 
 ## Contact Me
-- [Linkedin] (https://www.linkedin.com/in/nunoroberto/)
-- [@TheWorld365] (https://twitter.com/theworld365)
-
-When I'm not doing IT I take photos:
-- [Flickr] (http://www.flickr.com/photos/theworld365/)
+- [Linkedin](https://www.linkedin.com/in/nunoroberto/)
+- [@TheWorld365](https://twitter.com/theworld365)
+- [Flickr](http://www.flickr.com/photos/theworld365/)
 
 ## Books I Read
 
