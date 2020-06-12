@@ -40,13 +40,12 @@ This is a repo for the purpose of documenting my journey. Enjoy.
 
 ### Education
 
-Course | University | Area | Certificate
+Area | University | Specialization | Certificate
 :-- | :--: | :--: | :--:
-[Leading People and Teams Specialization](https://www.coursera.org/specializations/leading-teams) | University of Michigan | Business | TBD
+Business | [University of Michigan](https://umich.edu/){:target="_blank"} | [Leading People and Teams Specialization](https://www.coursera.org/specializations/leading-teams){:target="_blank"} | TBD
+Business | [Northwestern](https://www.northwestern.edu/){:target="_blank"} | [Organizational Leadership Specialization](https://www.coursera.org/specializations/organizational-leadership){:target="_blank"} | TBD
+Data Science | [Rice](https://www.rice.edu/){:target="_blank"} | [Business Statistics and Analysis Specialization](https://www.coursera.org/specializations/business-statistics-analysis){:target="_blank"} | TBD
 
-
-:-- | :--: | :--: | :--: | :--:
-[Business Foundations Specialization](https://www.coursera.org/specializations/wharton-business-foundations) | University of Pennsylvania-The Wharton School | 26 weeks | 3-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/6JQMZRBY46T8 ) 
 ### Tools and Services I use
 
 ### Code Snippets
