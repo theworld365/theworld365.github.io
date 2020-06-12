@@ -3,7 +3,7 @@
 This is a repo for the purpose of documenting my journey. Enjoy.
 
 ### Contact Me
-[Linkedin](https://www.linkedin.com/in/nunoroberto/){:target="_blank"} | [@TheWorld365](https://twitter.com/theworld365){:target="_blank"} | [Flickr](http://www.flickr.com/photos/theworld365/){:target="_blank"} | [Facebook](https://www.facebook.com/ndphotography/){:target="_blank"} | 
+[Linkedin](https://www.linkedin.com/in/nunoroberto/){:target="_blank"} | [@TheWorld365](https://twitter.com/theworld365){:target="_blank"} | [Flickr](http://www.flickr.com/photos/theworld365/){:target="_blank"} | [Facebook](https://www.facebook.com/ndphotography/){:target="_blank"} | [Tumblr](https://theworld365.tumblr.com/){:target="_blank"}
 
 ### Shortcuts
 - [Books I Read Available on Amazon](https://theworld365.github.io#books-i-read-available-on-amazon)
@@ -39,6 +39,9 @@ This is a repo for the purpose of documenting my journey. Enjoy.
 ### MOOC Education
 
 ### Education
+Course | University | Area | Certificate
+:-- | :--: | :--: | :--:
+[Leading People and Teams Specialization](https://www.coursera.org/specializations/leading-teams) | University of Michigan | Business | TBD
 
 ### Tools and Services I use
 
