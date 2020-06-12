@@ -39,10 +39,14 @@ This is a repo for the purpose of documenting my journey. Enjoy.
 ### MOOC Education
 
 ### Education
+
 Course | University | Area | Certificate
 :-- | :--: | :--: | :--:
 [Leading People and Teams Specialization](https://www.coursera.org/specializations/leading-teams) | University of Michigan | Business | TBD
 
+
+:-- | :--: | :--: | :--: | :--:
+[Business Foundations Specialization](https://www.coursera.org/specializations/wharton-business-foundations) | University of Pennsylvania-The Wharton School | 26 weeks | 3-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/6JQMZRBY46T8 ) 
 ### Tools and Services I use
 
 ### Code Snippets
