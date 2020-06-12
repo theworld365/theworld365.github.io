@@ -45,6 +45,9 @@ Area | University | Specialization | Certificate
 Business | [University of Michigan](https://umich.edu/){:target="_blank"} | [Leading People and Teams Specialization](https://www.coursera.org/specializations/leading-teams){:target="_blank"} | TBD
 Business | [Northwestern](https://www.northwestern.edu/){:target="_blank"} | [Organizational Leadership Specialization](https://www.coursera.org/specializations/organizational-leadership){:target="_blank"} | TBD
 Data Science | [Rice](https://www.rice.edu/){:target="_blank"} | [Business Statistics and Analysis Specialization](https://www.coursera.org/specializations/business-statistics-analysis){:target="_blank"} | TBD
+Business | [ie Business School](https://www.ie.edu/business-school/){:target="_blank"} | [Marketing Mix Implementation Specialization](https://www.coursera.org/specializations/marketing-mix){:target="_blank"} | TBD
+Business | [University of Colorado, Boulder](https://www.colorado.edu/){:target="_blank"} | [Effective Communication: Writing, Design, and Presentation Specialization](https://www.coursera.org/specializations/effective-business-communication){:target="_blank"} | TBD
+Business | [The University of Melbourne](https://www.unimelb.edu.au/){:target="_blank"} | [Essentials of Corporate Finance Specialization](https://www.coursera.org/specializations/learn-finance){:target="_blank"} | TBD
 
 ### Tools and Services I use
 
