@@ -21,6 +21,12 @@ This is a repo for the purpose of documenting my journey. Enjoy.
 - [Visual Candy](https://theworld365.github.io#visual-candy)
 
 ### Books I Read Available on Amazon
+Subject | Title
+:-- | :--:
+Machine Learning | [Hands-on Unsupervised Learning Using Python](https://www.amazon.com/Hands-Unsupervised-Learning-Using-Python/dp/1492035645/ref=sr_1_3?crid=2SO9L7TALOG97&dchild=1&keywords=hands-on+unsupervised+learning+using+python&qid=1591993611&sprefix=hands-on+un%2Caps%2C297&sr=8-3){:target="_blank"}
+Deep Learning | [Deep Learning a Practitioner's Approach](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254/ref=sr_1_1?crid=3OC8D41IMFZDZ&dchild=1&keywords=deep+learning+a+practitioner%27s+approach&qid=1591993780&sprefix=Deep+Learning+a+%2Caps%2C204&sr=8-1){:target="_blank"}
+Machine Learning | [Machine Learning for Predictive Data Analytics](https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0262029448/ref=sr_1_2?crid=1P1UJK4863V9E&dchild=1&keywords=fundamentals+of+machine+learning+for+predictive+data+analytics&qid=1591993879&sprefix=fundamentals+of+machine+learning%2Caps%2C199&sr=8-2){:target="_blank"}
+Statistics | [Engineering Statistics](https://www.amazon.com/Engineering-Statistics-Industrial-Bernard-Ostle/dp/0534265383/ref=sr_1_1?dchild=1&keywords=engineering+statistics+the+industrial+experience&qid=1591993994&sr=8-1){:target="_blank"}
 
 ### Books in PDF format
 
@@ -48,6 +54,11 @@ Data Science | [Rice](https://www.rice.edu/){:target="_blank"} | [Business Stati
 Business | [ie Business School](https://www.ie.edu/business-school/){:target="_blank"} | [Marketing Mix Implementation Specialization](https://www.coursera.org/specializations/marketing-mix){:target="_blank"} | TBD
 Business | [University of Colorado, Boulder](https://www.colorado.edu/){:target="_blank"} | [Effective Communication: Writing, Design, and Presentation Specialization](https://www.coursera.org/specializations/effective-business-communication){:target="_blank"} | TBD
 Business | [The University of Melbourne](https://www.unimelb.edu.au/){:target="_blank"} | [Essentials of Corporate Finance Specialization](https://www.coursera.org/specializations/learn-finance){:target="_blank"} | TBD
+Business | [Copenhagen Business School](https://www.cbs.dk/en){:target="_blank"} | [Strategic Management and Innovation Specialization](https://www.coursera.org/specializations/strategic-management){:target="_blank"} | TBD
+Business | [University of Illinois Urbana-Champaign](https://illinois.edu/){:target="_blank"} | [Strategic Leadership and Management Specialization](https://www.coursera.org/specializations/strategic-leadership){:target="_blank"} | TBD
+Business | [USG](https://www.usg.edu/){:target="_blank"} | [Six Sigma Yellow Belt Specialization](https://www.coursera.org/specializations/six-sigma-fundamentals){:target="_blank"} | TBD
+Business | [Northwestern](https://www.northwestern.edu/){:target="_blank"} | [Scaling Operations: Linking Strategy and Execution](https://www.coursera.org/learn/operations-strategy){:target="_blank"}  | TBD
+
 
 ### Tools and Services I use
 
