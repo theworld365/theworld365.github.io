@@ -3,28 +3,50 @@
 This is a repo for the purpose of documenting my journey. Enjoy.
 
 ### Contact Me
-[Linkedin](https://www.linkedin.com/in/nunoroberto/){:target="_blank"} | [@TheWorld365](https://twitter.com/theworld365){:target="_blank"} | [Flickr](http://www.flickr.com/photos/theworld365/){:target="_blank"}
+[Linkedin](https://www.linkedin.com/in/nunoroberto/){:target="_blank"} | [@TheWorld365](https://twitter.com/theworld365){:target="_blank"} | [Flickr](http://www.flickr.com/photos/theworld365/){:target="_blank"} | [Facebook](https://www.facebook.com/ndphotography/){:target="_blank"} | 
 
 ### Shortcuts
 - [Books I Read Available on Amazon](https://theworld365.github.io#books-i-read-available-on-amazon)
+- [Books in PDF format](https://theworld365.github.io#books-in-pdf-format)
+- [Algorithms](https://theworld365.github.io#algorithms)
+- [Cool Data Science Articles](https://theworld365.github.io#cool-data-science-articles)
+- [Cool AWS Articles](https://theworld365.github.io#cool-aws-articles)
+- [Public Datasets](https://theworld365.github.io#public-datasets)
+- [Certifications](https://theworld365.github.io#certifications)
+- [MOOC Education](https://theworld365.github.io#mooc-education)
 - [Education](https://theworld365.github.io#education)
-- [Header 1](https://theworld365.github.io#header-1)
+- [Tools and Services I use](https://theworld365.github.io#tools-and-services-i-use)
+- [Code Snippets](https://theworld365.github.io#code-snippets)
+- [Other Repos](https://theworld365.github.io#other-repos)
+- [Visual Candy](https://theworld365.github.io#visual-candy)
 
 ### Books I Read Available on Amazon
 
 ### Books in PDF format
 
-### Blogs I Follow
+### Algorithms
+
+### Machine Learning
+
+### Cool Data Science Articles
 
 ### Cool AWS Articles
-
-### Tools and Services I use
 
 ### Public Datasets
 
 ### Certifications
 
+### MOOC Education
+
 ### Education
+
+### Tools and Services I use
+
+### Code Snippets
+
+### Other Repos
+
+### Visual Candy
 
 ### ------------------------
 
