@@ -56,13 +56,14 @@ These sites offer additional education at great prices (sometimes free)
 
 Site | Interest | Notes
 :-- | :--: | :--:
-Udacity | [The School of Data Science](https://www.udacity.com/school-of-data-science){:target="_blank"} | Highly rates, expensive
+Udacity | [The School of Data Science](https://www.udacity.com/school-of-data-science){:target="_blank"} | High rates, expensive
 Kaggle | [Data Science Education](https://www.kaggle.com/learn/overview){:target="_blank"} | Challenges, datasets, and competitions
 ClassCentral | [Data Science Courses](https://www.classcentral.com/subject/data-science){:target="_blank"} | Tracks the best ranked online courses
 HackerRank | [Artificial Intelligence](https://www.hackerrank.com/domains/ai){:target="_blank"} | Skills testing and certification
 DevSkiller | [Tech Recruitment](https://dojo.devskiller.com/){:target="_blank"} | Certifications for tech recruitment 
 Harvard Manage Mentor | [Management and Global Collaboration](https://myhbp.org/hmm12/home.html){:target="_blank"} | Classes on management and collaboration
 Great Learning | [Data Science](https://olympus.greatlearning.in/dashboard){:target="_blank"} | Data Science, Machine Learning, and AI
+
 ## Education
 I'm planning to take these specializations as part of my ongoing education. I will update the certificates or credentials as soon as I finish the specialization.
 
