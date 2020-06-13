@@ -47,11 +47,13 @@ Agency | Department | Title
 CDC | NSFG | [National Survey of Family Growth](https://www.icpsr.umich.edu/icpsradmin/nsfg/index?studyNumber=9999){:target="_blank"}
 
 ### Certifications
+A list of my certifications, badges and certificates achieved throughout my professional career.
 
 ### MOOC Education
+These sites offer additional education at great prices (sometimes free)
 
 ### Education
-
+I'm planning to take these specializations as part of my ongoing education. I will update the certificates or credentials as soon as I finish the specialization.
 Area | University | Specialization | Certificate
 :-- | :--: | :--: | :--:
 Business | [University of Michigan](https://umich.edu/){:target="_blank"} | [Leading People and Teams Specialization](https://www.coursera.org/specializations/leading-teams){:target="_blank"} | TBD
@@ -65,7 +67,15 @@ Business | [University of Illinois Urbana-Champaign](https://illinois.edu/){:tar
 Business | [USG](https://www.usg.edu/){:target="_blank"} | [Six Sigma Yellow Belt Specialization](https://www.coursera.org/specializations/six-sigma-fundamentals){:target="_blank"} | TBD
 Business | [Northwestern](https://www.northwestern.edu/){:target="_blank"} | [Scaling Operations: Linking Strategy and Execution](https://www.coursera.org/learn/operations-strategy){:target="_blank"} | TBD
 Data Science | [Wharton Online](https://online.wharton.upenn.edu/){:target="_blank"} | [Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics){:target="_blank"} | TBD
-
+Business | [Darden School of Business University of Virginia](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation){:target="_blank"} | [Digital Transformation](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation){:target="_blank"} | TBD
+Business | [Lund University](https://www.lunduniversity.lu.se/){:target="_blank"} | [Digital Business Models](https://www.coursera.org/learn/digital-business-models){:target="_blank"} | TBD
+Business | [University of Virginia](https://www.virginia.edu/){:target="_blank"} | [Customer-Centric IT Strategy](https://www.coursera.org/learn/uva-darden-customer-centric-it-strategy){:target="_blank"} | TBD
+Business | [Yale](https://www.yale.edu/){:target="_blank"} | [Financial Markets](https://www.coursera.org/learn/financial-markets-global){:target="_blank"} | TBD
+Business | [Columbia University](https://www.columbia.edu/){:target="_blank"} | [Economics of Money and Banking](https://www.coursera.org/learn/money-banking){:target="_blank"} | TBD
+Business | [Columbia University](https://www.columbia.edu/){:target="_blank"} | [Financial Engineering and Risk Management Part I](https://www.coursera.org/learn/financial-engineering-1){:target="_blank"} | TBD
+Business | [Columbia University](https://www.columbia.edu/){:target="_blank"} | [Financial Engineering and Risk Management Part II](https://www.coursera.org/learn/financial-engineering-2){:target="_blank"} | TBD
+Business | [Duke University](https://duke.edu/){:target="_blank"} | [Behavioral Finance](https://www.coursera.org/learn/duke-behavioral-finance){:target="_blank"} | TBD
+Business | [Universite de Geneve](https://www.unige.ch/){:target="_blank"} | [Investment Management Specialization](https://www.coursera.org/specializations/investment-management){:target="_blank"} | TBD
 
 ### Tools and Services I use
 
