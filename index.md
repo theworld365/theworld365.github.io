@@ -3,6 +3,7 @@
 This is a repo for the purpose of documenting my journey. Enjoy.
 
 ### Contact Me
+
 [Linkedin](https://www.linkedin.com/in/nunoroberto/){:target="_blank"} | [@TheWorld365](https://twitter.com/theworld365){:target="_blank"} | [Flickr](http://www.flickr.com/photos/theworld365/){:target="_blank"} | [Facebook](https://www.facebook.com/ndphotography/){:target="_blank"} | [Tumblr](https://theworld365.tumblr.com/){:target="_blank"}
 
 ### Shortcuts
@@ -41,6 +42,7 @@ Statistics | [Engineering Statistics](https://www.amazon.com/Engineering-Statist
 ### Cool AWS Articles
 
 ### Public Datasets
+These are public data sets that I've used, will use or I've seen others use.
 
 Agency | Department | Title
 :-- | :--: | :--:
@@ -54,6 +56,7 @@ These sites offer additional education at great prices (sometimes free)
 
 ### Education
 I'm planning to take these specializations as part of my ongoing education. I will update the certificates or credentials as soon as I finish the specialization.
+
 Area | University | Specialization | Certificate
 :-- | :--: | :--: | :--:
 Business | [University of Michigan](https://umich.edu/){:target="_blank"} | [Leading People and Teams Specialization](https://www.coursera.org/specializations/leading-teams){:target="_blank"} | TBD
