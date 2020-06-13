@@ -42,6 +42,10 @@ Statistics | [Engineering Statistics](https://www.amazon.com/Engineering-Statist
 
 ### Public Datasets
 
+Agency | Department | Title
+:-- | :--: | :--:
+CDC | NSFG | [National Survey of Family Growth](https://www.icpsr.umich.edu/icpsradmin/nsfg/index?studyNumber=9999){:target="_blank"}
+
 ### Certifications
 
 ### MOOC Education
@@ -59,7 +63,8 @@ Business | [The University of Melbourne](https://www.unimelb.edu.au/){:target="_
 Business | [Copenhagen Business School](https://www.cbs.dk/en){:target="_blank"} | [Strategic Management and Innovation Specialization](https://www.coursera.org/specializations/strategic-management){:target="_blank"} | TBD
 Business | [University of Illinois Urbana-Champaign](https://illinois.edu/){:target="_blank"} | [Strategic Leadership and Management Specialization](https://www.coursera.org/specializations/strategic-leadership){:target="_blank"} | TBD
 Business | [USG](https://www.usg.edu/){:target="_blank"} | [Six Sigma Yellow Belt Specialization](https://www.coursera.org/specializations/six-sigma-fundamentals){:target="_blank"} | TBD
-Business | [Northwestern](https://www.northwestern.edu/){:target="_blank"} | [Scaling Operations: Linking Strategy and Execution](https://www.coursera.org/learn/operations-strategy){:target="_blank"}  | TBD
+Business | [Northwestern](https://www.northwestern.edu/){:target="_blank"} | [Scaling Operations: Linking Strategy and Execution](https://www.coursera.org/learn/operations-strategy){:target="_blank"} | TBD
+Data Science | [Wharton Online](https://online.wharton.upenn.edu/){:target="_blank"} | [Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics){:target="_blank"} | TBD
 
 
 ### Tools and Services I use
