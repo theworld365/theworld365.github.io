@@ -70,6 +70,24 @@ Skillshare | [Business Analytics](https://www.skillshare.com/browse/business-ana
 ## Completed Certifications
 A list of my certifications, badges and certificates achieved throughout my professional career.
 
+## AWS Certifications Plan
+A list of certifications I plan to complete
+
+Provider | Area | Learning Path 
+:-- | :--: | :--:
+AWS | Architect | [Solutions Architect Associate Certification](https://cloudacademy.com/learning-paths/cloud-academy-solutions-architect-associate-certification-v152-184/){:target="_blank"}
+AWS | Architect | [Solutions Architect – Professional Certification](https://cloudacademy.com/learning-paths/solutions-architect-professional-certification-preparation-for-aws-2019-377/){:target="_blank"}
+AWS | SysOps | [SysOps Administrator – Associate Certification](https://cloudacademy.com/learning-paths/sysops-administrator-associate-certification-preparation-for-aws-2018-295/){:target="_blank"}
+AWS | DevOps | [DevOps Engineer – Professional Certification](https://cloudacademy.com/learning-paths/devops-engineer-professional-certification-preparation-for-aws-2019-427/){:target="_blank"}
+AWS | Developer | [Certified Developer – Associate Certification](https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-june-2018-241/){:target="_blank"}
+AWS | Networking | [Advanced Networking – Specialty Certification](https://cloudacademy.com/learning-paths/advanced-networking-specialty-certification-preparation-for-aws-34/){:target="_blank"}
+AWS | Security | [Security - Specialty Certification](https://cloudacademy.com/learning-paths/security-specialty-certification-preparation-for-aws-201/){:target="_blank"}
+AWS | Machine Learning | [Machine Learning – Specialty Certification](https://cloudacademy.com/learning-paths/aws-machine-learning-specialty-certification-preparation-453/){:target="_blank"}
+AWS | Big Data | [Big Data – Specialty Certification](https://cloudacademy.com/learning-paths/big-data-specialty-certification-preparation-for-aws-36/){:target="_blank"}
+AWS | Data Analytics | [Data Analytics Specialty Certificaiton]
+AWS | Database | [Database Specialty Certification]
+AWS | Alexa | [Alexa Skill Builder]
+ 
 ## Education Plan
 I'm planning to take these specializations as part of my ongoing education. I will update the certificates or credentials as soon as I finish the specialization.
 
@@ -102,7 +120,7 @@ Business | [Copenhagen Business School](https://www.cbs.dk/en){:target="_blank"}
 Business | [University of Illinois Urbana-Champaign](https://illinois.edu/){:target="_blank"} | [Strategic Leadership and Management Specialization](https://www.coursera.org/specializations/strategic-leadership){:target="_blank"} | TBD
 Business | [USG](https://www.usg.edu/){:target="_blank"} | [Six Sigma Yellow Belt Specialization](https://www.coursera.org/specializations/six-sigma-fundamentals){:target="_blank"} | TBD
 Business | [Northwestern](https://www.northwestern.edu/){:target="_blank"} | [Scaling Operations: Linking Strategy and Execution](https://www.coursera.org/learn/operations-strategy){:target="_blank"} | TBD
-Business | [Darden School of Business University of Virginia](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation){:target="_blank"} | [Digital Transformation](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation){:target="_blank"} | TBD
+Business | [Darden School of Business University of Virginia](https://www.darden.virginia.edu/){:target="_blank"} | [Digital Transformation](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation){:target="_blank"} | TBD
 Business | [Lund University](https://www.lunduniversity.lu.se/){:target="_blank"} | [Digital Business Models](https://www.coursera.org/learn/digital-business-models){:target="_blank"} | TBD
 Business | [University of Virginia](https://www.virginia.edu/){:target="_blank"} | [Customer-Centric IT Strategy](https://www.coursera.org/learn/uva-darden-customer-centric-it-strategy){:target="_blank"} | TBD
 Business | [Yale University](https://www.yale.edu/){:target="_blank"} | [Financial Markets](https://www.coursera.org/learn/financial-markets-global){:target="_blank"} | TBD
