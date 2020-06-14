@@ -15,6 +15,7 @@ This is a repo for the purpose of documenting my journey. Enjoy.
 - [Public Datasets](https://theworld365.github.io#public-datasets)
 - [MOOC Education](https://theworld365.github.io#mooc-education)
 - [Completed Certifications](https://theworld365.github.io#completed-certifications)
+- [AWS Certifications Plan](https://theworld365.github.io#aws-certifications-plan)
 - [Education Plan](https://theworld365.github.io#education-plan)
 - [Tools and Services I use](https://theworld365.github.io#tools-and-services-i-use)
 - [Code Snippets](https://theworld365.github.io#code-snippets)
