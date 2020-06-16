@@ -27,10 +27,29 @@ This is a repo for the purpose of documenting my journey. Enjoy.
 Subject | Title
 :-- | :--:
 Machine Learning | [Hands-on Unsupervised Learning Using Python](https://www.amazon.com/Hands-Unsupervised-Learning-Using-Python/dp/1492035645/ref=sr_1_3?crid=2SO9L7TALOG97&dchild=1&keywords=hands-on+unsupervised+learning+using+python&qid=1591993611&sprefix=hands-on+un%2Caps%2C297&sr=8-3){:target="_blank"}
-Deep Learning | [Deep Learning a Practitioner's Approach](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254/ref=sr_1_1?crid=3OC8D41IMFZDZ&dchild=1&keywords=deep+learning+a+practitioner%27s+approach&qid=1591993780&sprefix=Deep+Learning+a+%2Caps%2C204&sr=8-1){:target="_blank"}
+Machine Learning | [Deep Learning a Practitioner's Approach](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254/ref=sr_1_1?crid=3OC8D41IMFZDZ&dchild=1&keywords=deep+learning+a+practitioner%27s+approach&qid=1591993780&sprefix=Deep+Learning+a+%2Caps%2C204&sr=8-1){:target="_blank"}
 Machine Learning | [Machine Learning for Predictive Data Analytics](https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0262029448/ref=sr_1_2?crid=1P1UJK4863V9E&dchild=1&keywords=fundamentals+of+machine+learning+for+predictive+data+analytics&qid=1591993879&sprefix=fundamentals+of+machine+learning%2Caps%2C199&sr=8-2){:target="_blank"}
-Statistics | [Engineering Statistics](https://www.amazon.com/Engineering-Statistics-Industrial-Bernard-Ostle/dp/0534265383/ref=sr_1_1?dchild=1&keywords=engineering+statistics+the+industrial+experience&qid=1591993994&sr=8-1){:target="_blank"}
+Machine Learning | [The Hundred Pages Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=sr_1_1?dchild=1&keywords=The+Hundred+Pages+Machine+Learning+Book&qid=1592327933&sr=8-1){:target="_blank"}
+Machine Learning | [Introduction to Deep Learning](https://www.amazon.com/Introduction-Deep-Learning-MIT-Press/dp/0262039516/ref=sr_1_3?dchild=1&keywords=Introduction+to+Deep+Learning&qid=1592329402&s=books&sr=1-3){:target="_blank"}
 
+Statistics | [Engineering Statistics](https://www.amazon.com/Engineering-Statistics-Industrial-Bernard-Ostle/dp/0534265383/ref=sr_1_1?dchild=1&keywords=engineering+statistics+the+industrial+experience&qid=1591993994&sr=8-1){:target="_blank"}
+Data Analysis | [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_3?dchild=1&keywords=Python+for+Data+Analysis&qid=1592327845&sr=8-3){:target="_blank"}
+
+Data Visualization | [Tableau 10 Best Practices](https://www.amazon.com/Tableau-10-0-Practices-Jenny-Zhang/dp/1786460092/ref=sr_1_2?dchild=1&keywords=Tableau+10+Best+Practices&qid=1592328271&sr=8-2){:target="_blank"}
+Data Visualization | [Data Visualization - Data Driven Design](https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921/ref=sr_1_1?dchild=1&keywords=Data+Visualization+-+Data+Driven+Design%5D&qid=1592329165&sr=8-1){:target="_blank"}
+Data Visualization | [Fundamentals of Data Visualization](https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089/ref=sr_1_1?dchild=1&keywords=Fundamentals+of+Data+Visualization&qid=1592328622&sr=8-1){:target="_blank"}
+Data Visualization | [Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/ref=sr_1_3?dchild=1&keywords=Storytelling+with+Data&qid=1592328684&sr=8-3){:target="_blank"}
+Data Visualization | [The Big Book of Dashboards](https://www.amazon.com/Big-Book-Dashboards-Visualizing-Real-World/dp/1119282713/ref=sr_1_1?dchild=1&keywords=The+Big+Book+of+Dashboards&qid=1592328870&sr=8-1){:target="_blank"}
+Data Visualization | [Practical Tableau](https://www.amazon.com/Practical-Tableau-Tutorials-Strategies-Master/dp/1491977310/ref=redir_mobile_desktop?ie=UTF8&aaxitk=tiAasObQJeYv2HFCo3YVZg&hsa_cr_id=6515326810701&ref_=sbx_be_s_sparkle_mcd_asin_0){:target="_blank"}
+Data Visualization | [Mastering Tableau](https://www.amazon.com/Mastering-Tableau-Business-Intelligence-techniques/dp/1784397695/ref=sr_1_4?dchild=1&keywords=Mastering+Tableau&qid=1592329453&s=books&sr=1-4){:target="_blank"}
+Data Art | [The Truthful Art](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075/ref=sr_1_2?dchild=1&keywords=The+Truthful+Art&qid=1592328801&sr=8-2){:target="_blank"}
+
+Data Strategy | [The CDO Handbook for Data Governance](https://www.amazon.com/Chief-Data-Officer-Handbook-Governance/dp/158347417X/ref=sr_1_1?dchild=1&keywords=The+CDO+Handbook+for+Data+Governance&qid=1592329067&sr=8-1){:target="_blank"}
+Data Strategy | [The CDO's Playbook](https://www.amazon.com/Chief-Data-Officers-Playbook/dp/1783302577/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1592328351&sr=8-1){:target="_blank"}
+Data Strategy | [Data as a Service](https://www.amazon.com/Data-Service-Framework-Providing-Enterprise-dp-1119046580/dp/1119046580/ref=mt_other?_encoding=UTF8&me=&qid=1592329249){:target="_blank"}
+
+Data Science | [Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=sr_1_2?dchild=1&keywords=Data+Science+from+Scratch&qid=1592329502&s=books&sr=1-2){:target="_blank"}
+Data Science | [Python Data Science Handbook](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_3?dchild=1&keywords=Python+Data+Science+Handbook&qid=1592328934&sr=8-3){:target="_blank"}
 
 ## Books in PDF format
 
@@ -74,20 +93,20 @@ A list of my certifications, badges and certificates achieved throughout my prof
 ## AWS Certifications Plan
 A list of certifications I plan to complete
 
-Provider | Area | Learning Path 
-:-- | :--: | :--:
-AWS | Architect | [Solutions Architect Associate Certification](https://cloudacademy.com/learning-paths/cloud-academy-solutions-architect-associate-certification-v152-184/){:target="_blank"}
-AWS | Architect | [Solutions Architect – Professional Certification](https://cloudacademy.com/learning-paths/solutions-architect-professional-certification-preparation-for-aws-2019-377/){:target="_blank"}
-AWS | SysOps | [SysOps Administrator – Associate Certification](https://cloudacademy.com/learning-paths/sysops-administrator-associate-certification-preparation-for-aws-2018-295/){:target="_blank"}
-AWS | DevOps | [DevOps Engineer – Professional Certification](https://cloudacademy.com/learning-paths/devops-engineer-professional-certification-preparation-for-aws-2019-427/){:target="_blank"}
-AWS | Developer | [Certified Developer – Associate Certification](https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-june-2018-241/){:target="_blank"}
-AWS | Networking | [Advanced Networking – Specialty Certification](https://cloudacademy.com/learning-paths/advanced-networking-specialty-certification-preparation-for-aws-34/){:target="_blank"}
-AWS | Security | [Security - Specialty Certification](https://cloudacademy.com/learning-paths/security-specialty-certification-preparation-for-aws-201/){:target="_blank"}
-AWS | Machine Learning | [Machine Learning – Specialty Certification](https://cloudacademy.com/learning-paths/aws-machine-learning-specialty-certification-preparation-453/){:target="_blank"}
-AWS | Big Data | [Big Data – Specialty Certification](https://cloudacademy.com/learning-paths/big-data-specialty-certification-preparation-for-aws-36/){:target="_blank"}
-AWS | Data Analytics | [Data Analytics Specialty Certification]
-AWS | Database | [Database Specialty Certification]
-AWS | Alexa | [Alexa Skill Builder]
+Provider | Area | Code | Learning Path 
+:-- | :--: | :--: | :--:
+AWS | Architect | SAA-C02 | [Solutions Architect Associate Certification](https://cloudacademy.com/learning-paths/aws-solutions-architect-associate-saa-c02-certification-preparation-954/){:target="_blank"}
+AWS | Architect | | [Solutions Architect – Professional Certification](https://cloudacademy.com/learning-paths/solutions-architect-professional-certification-preparation-for-aws-2019-377/){:target="_blank"}
+AWS | SysOps | | [SysOps Administrator – Associate Certification](https://cloudacademy.com/learning-paths/sysops-administrator-associate-certification-preparation-for-aws-2018-295/){:target="_blank"}
+AWS | DevOps | | [DevOps Engineer – Professional Certification](https://cloudacademy.com/learning-paths/devops-engineer-professional-certification-preparation-for-aws-2019-427/){:target="_blank"}
+AWS | Developer | | [Certified Developer – Associate Certification](https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-june-2018-241/){:target="_blank"}
+AWS | Networking | | [Advanced Networking – Specialty Certification](https://cloudacademy.com/learning-paths/advanced-networking-specialty-certification-preparation-for-aws-34/){:target="_blank"}
+AWS | Security | | [Security - Specialty Certification](https://cloudacademy.com/learning-paths/security-specialty-certification-preparation-for-aws-201/){:target="_blank"}
+AWS | Machine Learning | | [Machine Learning – Specialty Certification](https://cloudacademy.com/learning-paths/aws-machine-learning-specialty-certification-preparation-453/){:target="_blank"}
+AWS | Big Data | | [Big Data – Specialty Certification](https://cloudacademy.com/learning-paths/big-data-specialty-certification-preparation-for-aws-36/){:target="_blank"}
+AWS | Data Analytics | | [Data Analytics Specialty Certification]
+AWS | Database | | [Database Specialty Certification]
+AWS | Alexa | | [Alexa Skill Builder]
  
 ## Education Plan
 I'm planning to take these specializations as part of my ongoing education. I will update the certificates or credentials as soon as I finish the specialization.
