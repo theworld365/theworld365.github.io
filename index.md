@@ -7,22 +7,21 @@ This is a repo for the purpose of documenting my journey. Enjoy.
 [Linkedin](https://www.linkedin.com/in/nunoroberto/){:target="_blank"} | [@TheWorld365](https://twitter.com/theworld365){:target="_blank"} | [Flickr](http://www.flickr.com/photos/theworld365/){:target="_blank"} | [Facebook](https://www.facebook.com/ndphotography/){:target="_blank"} | [Tumblr](https://theworld365.tumblr.com/){:target="_blank"}
 
 ## Shortcuts
-- [Books I Read Available on Amazon](https://theworld365.github.io#books-i-read-available-on-amazon)
-- [Books in PDF format](https://theworld365.github.io#books-in-pdf-format)
-- [Algorithms](https://theworld365.github.io#algorithms)
-- [Cool Data Science Articles](https://theworld365.github.io#cool-data-science-articles)
-- [Cool AWS Articles](https://theworld365.github.io#cool-aws-articles)
+- [Books I Read Available on Amazon](https://theworld365.github.io#books-i-read-available-on-amazon)  - These books are good. There are hundreds of others out there. Start here. Find your own...
+- [Books in PDF format](https://theworld365.github.io#books-in-pdf-format) - Books I plan to read when I have free time. Or use when working on a project.
+- [Articles](https://theworld365.github.io#articles)
 - [Public Datasets](https://theworld365.github.io#public-datasets)
 - [MOOC Education](https://theworld365.github.io#mooc-education)
 - [Completed Certifications](https://theworld365.github.io#completed-certifications)
 - [AWS Certifications Plan](https://theworld365.github.io#aws-certifications-plan)
 - [Education Plan](https://theworld365.github.io#education-plan)
-- [Tools and Services I use](https://theworld365.github.io#tools-and-services-i-use)
+- [Tools and Services](https://theworld365.github.io#tools-and-services)
 - [Code Snippets](https://theworld365.github.io#code-snippets)
 - [Other Repos](https://theworld365.github.io#other-repos)
 - [Visual Candy](https://theworld365.github.io#visual-candy)
 
 ## Books I Read Available on Amazon
+These books are good. There are hundreds of others out there. Start here. Find your own...
 
 Subject | Title
 :-- | :--:
@@ -48,14 +47,7 @@ Data Science | [Data Science from Scratch](https://www.amazon.com/Data-Science-S
 Data Science | [Python Data Science Handbook](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_3?dchild=1&keywords=Python+Data+Science+Handbook&qid=1592328934&sr=8-3){:target="_blank"}
 
 ## Books in PDF format
-
-## Algorithms
-
-## Machine Learning
-
-## Cool Data Science Articles
-
-## Cool AWS Articles
+Books I plan to read when I have free time. Or use when working on a project.
 
 ## Public Datasets
 These are public data sets that I've used, will use or I've seen others use.
@@ -197,11 +189,20 @@ Social Sciences | [Stanford](https://www.stanford.edu/){:target="_blank"} | [Gam
 Social Sciences | [Stanford](https://www.stanford.edu/){:target="_blank"} | [Game Theory II: Advanced Applications](https://www.coursera.org/learn/game-theory-2){:target="_blank"} | TBD
 Social Sciences | [University of Michigan](https://umich.edu/){:target="_blank"} | [Model Thinking](https://www.coursera.org/learn/model-thinking){:target="_blank"}  | TBD
 
+## Notebooks
+Jupyter notebooks I found interesting which helped me understand the mechanics of data analysis, machine learning, and practical aspects of data science
 
-## Tools and Services I use
+## Articles
+Articles I read that helped me take steps in the right direction
+
+## Tools and Services
+I use (or used) these tools, packages, libs, services 
 
 ## Code Snippets
+Sometimes it takes one piece of code to complete the whole puzzle
 
 ## Other Repos
+These repos are pure gold I found while digging through the mountains of material out there
 
 ## Visual Candy
+If you're not showing the beauty in data, then try again. 
