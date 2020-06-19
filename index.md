@@ -86,23 +86,53 @@ Skillshare | [Business Analytics](https://www.skillshare.com/browse/business-ana
 ## Completed Certifications
 A list of my certifications, badges and certificates achieved throughout my professional career.
 
+Area | Provider | Specialization | Certificate
+:-- | :--: | :--: | :--:
+AWS | AWS | Certified Cloud Practitioner | [Cert](https://www.youracclaim.com/badges/7b87ef90-2218-4ddc-b557-47f91250b180/public_url){:target="_blank"}
+ | | |
+Azure | Microsoft | Architect Professional Certification | [](){:target="_blank"}
+Azure | Microsoft | Designing an Azure Data Solution | [](){:target="_blank"}
+Azure | Microsoft | Implementing an Azure Data Solution | [](){:target="_blank"}
+Azure | Microsoft | Designing Deployments, Migrations, and Integrations | [](){:target="_blank"}
+Azure | Microsoft | Designing Identity and Security (APL) | [](){:target="_blank"}
+Azure | Microsoft | Designing a Data Platform Solution | [](){:target="_blank"}
+Azure | Microsoft | Designing an Infrastructure Strategy | [](){:target="_blank"}
+Azure | Microsoft | Microsoft Azure Administrator | [](){:target="_blank"}
+ | | | 
+Viz | Tableau | Tableau Consumer | [Cert](https://www.youracclaim.com/badges/0c076b5b-b9be-41fd-9dc5-f62b5cc83818/public_url){:target="_blank"}
+Viz | Tableau | Tableau Author Desktop/Web| [Cert](https://www.youracclaim.com/badges/51e095d9-57a3-4016-9f4d-a72270e31aad/public_url){:target="_blank"}
+Viz | Tableau | Tableau Designer | [Cert](https://www.youracclaim.com/badges/f49125af-9322-42d8-9d66-2bb32399ee1c/public_url){:target="_blank"}
+Viz | Tableau | Tableau Analyst | [Cert](https://www.youracclaim.com/badges/44e04da7-e480-406c-9003-8569f8893ec0/public_url){:target="_blank"}
+Viz | Tableau | Tableau Data Scientist | [Cert](https://www.youracclaim.com/badges/e2c625a0-f8e4-4e97-a073-38b3c9aab4c7/public_url){:target="_blank"}
+Viz | Tableau | Tableau Server Architect | [Cert](https://www.youracclaim.com/badges/02305e09-557b-45ec-ba4f-69c9b5228ba8/public_url){:target="_blank"}
+Viz | Tableau | Tableau Developer | [Cert](https://www.youracclaim.com/badges/204b30e5-1f15-4162-b239-3c52810dbfd5/public_url){:target="_blank"}
+Viz | Tableau | Tableau Server Administrator | [Cert](https://www.youracclaim.com/badges/e36a2c1e-03af-40c2-bf36-1538acf23a3f/public_url){:target="_blank"}
+Viz | Tableau | Tableau Site Administrator | [Cert](https://www.youracclaim.com/badges/3c0731ca-0f8f-44f9-8dc2-f091087b424e/public_url){:target="_blank"}
+Viz | Tableau | Tableau Executive Sponsor | [Cert](https://www.youracclaim.com/badges/5e5b78cd-eebf-4ac7-92da-309422814b28/public_url){:target="_blank"}
+Viz | Tableau | Tableau Community Leader | [Cert](https://www.youracclaim.com/badges/a0d4683b-45f7-49fd-9ce0-354ba0b08041/public_url){:target="_blank"}
+Viz | Tableau | Tableau Data Steward | [Cert](https://www.youracclaim.com/badges/a2f6b91d-344f-4cff-8763-780a2aa056ab/public_url){:target="_blank"}
+ | | |
+ML | John Hopkins | Practical Machine Learning | [Cert](https://coursera.org/share/f625e6ae690cff058510c535cc96eda9){:target="_blank"}
+ML | Stanford | Machine Learning | [Cert](https://coursera.org/share/099a58cfceef497748eb874102b6f257){:target="_blank"}
+DS | IBM | Data Science Professional Certification | [Cert](https://coursera.org/share/60493c211ca4d5f30d42fa77fd90183e){:target="_blank"}
+
 ## AWS Certifications Plan
 A list of certifications I plan to complete
 
-Provider | Area | Code | Learning Path 
+Provider | Area | Code | Learning Path | Status
 :-- | :--: | :--: | :--:
-AWS | Architect | SAA-C02 | [Solutions Architect Associate Certification](https://cloudacademy.com/learning-paths/aws-solutions-architect-associate-saa-c02-certification-preparation-954/){:target="_blank"}
-AWS | Architect | | [Solutions Architect – Professional Certification](https://cloudacademy.com/learning-paths/solutions-architect-professional-certification-preparation-for-aws-2019-377/){:target="_blank"}
-AWS | SysOps | | [SysOps Administrator – Associate Certification](https://cloudacademy.com/learning-paths/sysops-administrator-associate-certification-preparation-for-aws-2018-295/){:target="_blank"}
-AWS | DevOps | | [DevOps Engineer – Professional Certification](https://cloudacademy.com/learning-paths/devops-engineer-professional-certification-preparation-for-aws-2019-427/){:target="_blank"}
-AWS | Developer | | [Certified Developer – Associate Certification](https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-june-2018-241/){:target="_blank"}
-AWS | Networking | | [Advanced Networking – Specialty Certification](https://cloudacademy.com/learning-paths/advanced-networking-specialty-certification-preparation-for-aws-34/){:target="_blank"}
-AWS | Security | | [Security - Specialty Certification](https://cloudacademy.com/learning-paths/security-specialty-certification-preparation-for-aws-201/){:target="_blank"}
-AWS | Machine Learning | | [Machine Learning – Specialty Certification](https://cloudacademy.com/learning-paths/aws-machine-learning-specialty-certification-preparation-453/){:target="_blank"}
-AWS | Big Data | | [Big Data – Specialty Certification](https://cloudacademy.com/learning-paths/big-data-specialty-certification-preparation-for-aws-36/){:target="_blank"}
-AWS | Data Analytics | | [Data Analytics Specialty Certification]
-AWS | Database | | [Database Specialty Certification]
-AWS | Alexa | | [Alexa Skill Builder]
+AWS | Architect | SAA-C02 | [Solutions Architect Associate Certification](https://cloudacademy.com/learning-paths/aws-solutions-architect-associate-saa-c02-certification-preparation-954/){:target="_blank"} | In Progress
+AWS | Architect | | [Solutions Architect – Professional Certification](https://cloudacademy.com/learning-paths/solutions-architect-professional-certification-preparation-for-aws-2019-377/){:target="_blank"} | In Progress
+AWS | SysOps | | [SysOps Administrator – Associate Certification](https://cloudacademy.com/learning-paths/sysops-administrator-associate-certification-preparation-for-aws-2018-295/){:target="_blank"} | In Progress
+AWS | DevOps | | [DevOps Engineer – Professional Certification](https://cloudacademy.com/learning-paths/devops-engineer-professional-certification-preparation-for-aws-2019-427/){:target="_blank"} | In Progress
+AWS | Developer | | [Certified Developer – Associate Certification](https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-june-2018-241/){:target="_blank"} | In Progress
+AWS | Networking | | [Advanced Networking – Specialty Certification](https://cloudacademy.com/learning-paths/advanced-networking-specialty-certification-preparation-for-aws-34/){:target="_blank"} | In Progress
+AWS | Security | | [Security - Specialty Certification](https://cloudacademy.com/learning-paths/security-specialty-certification-preparation-for-aws-201/){:target="_blank"} | In Progress
+AWS | Machine Learning | | [Machine Learning – Specialty Certification](https://cloudacademy.com/learning-paths/aws-machine-learning-specialty-certification-preparation-453/){:target="_blank"} | In Progress
+AWS | Big Data | | [Big Data – Specialty Certification](https://cloudacademy.com/learning-paths/big-data-specialty-certification-preparation-for-aws-36/){:target="_blank"} | In Progress
+AWS | Data Analytics | | [Data Analytics Specialty Certification] | TBD
+AWS | Database | | [Database Specialty Certification] | TBD
+AWS | Alexa | | [Alexa Skill Builder] | TBD
  
 ## Education Plan
 I'm planning to take these specializations as part of my ongoing education. I will update the certificates or credentials as soon as I finish the specialization.
