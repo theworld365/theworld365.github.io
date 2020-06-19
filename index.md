@@ -90,20 +90,19 @@ Area | Provider | Specialization | Certificate
 :-- | :--: | :--: | :--:
 AWS | AWS | Certified Cloud Practitioner | [Cert](https://www.youracclaim.com/badges/7b87ef90-2218-4ddc-b557-47f91250b180/public_url){:target="_blank"}
  | | |
-Azure | Microsoft | Architect Professional Certification | [](){:target="_blank"}
-Azure | Microsoft | Designing an Azure Data Solution | [](){:target="_blank"}
-Azure | Microsoft | Implementing an Azure Data Solution | [](){:target="_blank"}
-Azure | Microsoft | Designing Deployments, Migrations, and Integrations | [](){:target="_blank"}
-Azure | Microsoft | Designing Identity and Security (APL) | [](){:target="_blank"}
-Azure | Microsoft | Designing a Data Platform Solution | [](){:target="_blank"}
-Azure | Microsoft | Designing an Infrastructure Strategy | [](){:target="_blank"}
-Azure | Microsoft | Microsoft Azure Administrator | [](){:target="_blank"}
+Azure | Microsoft | Architect Professional Certification | [Cert](https://github.com/theworld365/theworld365.github.io/blob/master/certificates/AZ-300AzureArchitectTechnol-Nuno.Roberto.pdf){:target="_blank"}
+Azure | Microsoft | Designing an Azure Data Solution | [Cert](https://github.com/theworld365/theworld365.github.io/blob/master/certificates/DP-201T01-DesigninganAzure-Nuno.Roberto.pdf){:target="_blank"}
+Azure | Microsoft | Implementing an Azure Data Solution | [Cert](https://github.com/theworld365/theworld365.github.io/blob/master/certificates/DP-200T01-ImplementinganAzure-Nuno.Roberto.pdf){:target="_blank"}
+Azure | Microsoft | Designing Deployments, Migrations, and Integrations | [Cert](https://github.com/theworld365/theworld365.github.io/blob/master/certificates/AZ-301T03DesigningforDeploy-Nuno.Roberto.pdf){:target="_blank"}
+Azure | Microsoft | Designing Identity and Security (APL) | [Cert](https://github.com/theworld365/theworld365.github.io/blob/master/certificates/AZ-301T01DesigningIdentitya-Nuno.Roberto.pdf){:target="_blank"}
+Azure | Microsoft | Designing a Data Platform Solution | [Cert](https://github.com/theworld365/theworld365.github.io/blob/master/certificates/AZ-301T02DesigningaDataPla-Nuno.Roberto.pdf){:target="_blank"}
+Azure | Microsoft | Designing an Infrastructure Strategy | [Cert](https://github.com/theworld365/theworld365.github.io/blob/master/certificates/AZ-301T04DesigninganInfrast-Nuno.Roberto.pdf){:target="_blank"}
+Azure | Microsoft | Microsoft Azure Administrator | [Cert](https://github.com/theworld365/theworld365.github.io/blob/master/certificates/AZ-103T00-MicrosoftAzureAd-Nuno.Roberto.pdf){:target="_blank"}
  | | | 
 Viz | Tableau | Tableau Consumer | [Cert](https://www.youracclaim.com/badges/0c076b5b-b9be-41fd-9dc5-f62b5cc83818/public_url){:target="_blank"}
 Viz | Tableau | Tableau Author Desktop/Web| [Cert](https://www.youracclaim.com/badges/51e095d9-57a3-4016-9f4d-a72270e31aad/public_url){:target="_blank"}
 Viz | Tableau | Tableau Designer | [Cert](https://www.youracclaim.com/badges/f49125af-9322-42d8-9d66-2bb32399ee1c/public_url){:target="_blank"}
 Viz | Tableau | Tableau Analyst | [Cert](https://www.youracclaim.com/badges/44e04da7-e480-406c-9003-8569f8893ec0/public_url){:target="_blank"}
-Viz | Tableau | Tableau Data Scientist | [Cert](https://www.youracclaim.com/badges/e2c625a0-f8e4-4e97-a073-38b3c9aab4c7/public_url){:target="_blank"}
 Viz | Tableau | Tableau Server Architect | [Cert](https://www.youracclaim.com/badges/02305e09-557b-45ec-ba4f-69c9b5228ba8/public_url){:target="_blank"}
 Viz | Tableau | Tableau Developer | [Cert](https://www.youracclaim.com/badges/204b30e5-1f15-4162-b239-3c52810dbfd5/public_url){:target="_blank"}
 Viz | Tableau | Tableau Server Administrator | [Cert](https://www.youracclaim.com/badges/e36a2c1e-03af-40c2-bf36-1538acf23a3f/public_url){:target="_blank"}
@@ -111,6 +110,7 @@ Viz | Tableau | Tableau Site Administrator | [Cert](https://www.youracclaim.com/
 Viz | Tableau | Tableau Executive Sponsor | [Cert](https://www.youracclaim.com/badges/5e5b78cd-eebf-4ac7-92da-309422814b28/public_url){:target="_blank"}
 Viz | Tableau | Tableau Community Leader | [Cert](https://www.youracclaim.com/badges/a0d4683b-45f7-49fd-9ce0-354ba0b08041/public_url){:target="_blank"}
 Viz | Tableau | Tableau Data Steward | [Cert](https://www.youracclaim.com/badges/a2f6b91d-344f-4cff-8763-780a2aa056ab/public_url){:target="_blank"}
+Viz | Tableau | Tableau Data Scientist | [Cert](https://www.youracclaim.com/badges/e2c625a0-f8e4-4e97-a073-38b3c9aab4c7/public_url){:target="_blank"}
  | | |
 ML | John Hopkins | Practical Machine Learning | [Cert](https://coursera.org/share/f625e6ae690cff058510c535cc96eda9){:target="_blank"}
 ML | Stanford | Machine Learning | [Cert](https://coursera.org/share/099a58cfceef497748eb874102b6f257){:target="_blank"}
