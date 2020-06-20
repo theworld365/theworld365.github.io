@@ -7,6 +7,7 @@ This is a repo for the purpose of documenting my journey. Enjoy.
 [Linkedin](https://www.linkedin.com/in/nunoroberto/){:target="_blank"} | [@TheWorld365](https://twitter.com/theworld365){:target="_blank"} | [Flickr](http://www.flickr.com/photos/theworld365/){:target="_blank"} | [Facebook](https://www.facebook.com/ndphotography/){:target="_blank"} | [Tumblr](https://theworld365.tumblr.com/){:target="_blank"}
 
 ## Shortcuts
+
 Section | Notes
 :-- | :--:
 [Books I Read Available on Amazon](https://theworld365.github.io#books-i-read-available-on-amazon) | These books are good. There are hundreds of others out there. Start here. Find your own...
