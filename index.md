@@ -3,11 +3,6 @@
 This is a repo for the purpose of documenting my journey. Enjoy.
 
 ## Contact Me
-![mugshot](https://github.com/theworld365/theworld365.github.io/blob/master/images/BWface_resume.png)
-
-![mugshot](https://github.com/theworld365/theworld365.github.io/blob/master/images/BWface_resume.png){:class="img-responsive"}
-![mugshot](https://github.com/theworld365/theworld365.github.io/blob/master/images/BWface_resume.png){:height="50%" width="50%"}
-![mugshot](https://github.com/theworld365/theworld365.github.io/blob/master/images/BWface_resume.png){:height="700px" width="400px"}
 
 [Linkedin](https://www.linkedin.com/in/nunoroberto/){:target="_blank"} | [@TheWorld365](https://twitter.com/theworld365){:target="_blank"} | [Flickr](http://www.flickr.com/photos/theworld365/){:target="_blank"} | [Facebook](https://www.facebook.com/ndphotography/){:target="_blank"} | [Tumblr](https://theworld365.tumblr.com/){:target="_blank"}
 
