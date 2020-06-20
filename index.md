@@ -7,18 +7,21 @@ This is a repo for the purpose of documenting my journey. Enjoy.
 [Linkedin](https://www.linkedin.com/in/nunoroberto/){:target="_blank"} | [@TheWorld365](https://twitter.com/theworld365){:target="_blank"} | [Flickr](http://www.flickr.com/photos/theworld365/){:target="_blank"} | [Facebook](https://www.facebook.com/ndphotography/){:target="_blank"} | [Tumblr](https://theworld365.tumblr.com/){:target="_blank"}
 
 ## Shortcuts
-- [Books I Read Available on Amazon](https://theworld365.github.io#books-i-read-available-on-amazon) | These books are good. There are hundreds of others out there. Start here. Find your own...
-- [Books in PDF format](https://theworld365.github.io#books-in-pdf-format) | Books I plan to read when I have free time. Or use when working on a project.
-- [Articles](https://theworld365.github.io#articles)
-- [Public Datasets](https://theworld365.github.io#public-datasets)
-- [MOOC Education](https://theworld365.github.io#mooc-education)
-- [Completed Certifications](https://theworld365.github.io#completed-certifications)
-- [AWS Certifications Plan](https://theworld365.github.io#aws-certifications-plan)
-- [Education Plan](https://theworld365.github.io#education-plan)
-- [Tools and Services](https://theworld365.github.io#tools-and-services)
-- [Code Snippets](https://theworld365.github.io#code-snippets)
-- [Other Repos](https://theworld365.github.io#other-repos)
-- [Visual Candy](https://theworld365.github.io#visual-candy)
+Section | Notes
+:-- | :--:
+[Books I Read Available on Amazon](https://theworld365.github.io#books-i-read-available-on-amazon) | These books are good. There are hundreds of others out there. Start here. Find your own...
+[Books in PDF format](https://theworld365.github.io#books-in-pdf-format) | Books I plan to read when I have free time. Or use when working on a project.
+[Public Datasets](https://theworld365.github.io#public-datasets) | These are public data sets that I've used, will use or I've seen others use.
+[MOOC Education](https://theworld365.github.io#mooc-education) | These sites offer additional education at great prices (sometimes free)
+[Completed Certifications](https://theworld365.github.io#completed-certifications) | A list of my certifications, badges and certificates achieved throughout my professional career.
+[AWS Certifications Plan](https://theworld365.github.io#aws-certifications-plan) | A list of certifications I plan to complete
+[Education Plan](https://theworld365.github.io#education-plan) | I'm planning to take these specializations as part of my ongoing education. 
+[Notebooks](https://theworld365.github.io#notebooks) | Jupyter notebooks I found interesting which helped me understand the mechanics of data analysis, machine learning, and practical aspects of data science
+[Articles](https://theworld365.github.io#articles) | Articles I read that helped me take steps in the right direction
+[Tools and Services](https://theworld365.github.io#tools-and-services) | I use (or used) these tools, packages, libs, services 
+[Code Snippets](https://theworld365.github.io#code-snippets) | Sometimes it takes one piece of code to complete the whole puzzle
+[Other Repos](https://theworld365.github.io#other-repos) | These repos are pure gold I found while digging through the mountains of material out there
+[Visual Candy](https://theworld365.github.io#visual-candy) | If you're not showing the beauty in data, then try again. 
 
 ## Books I Read Available on Amazon
 These books are good. There are hundreds of others out there. Start here. Find your own...
