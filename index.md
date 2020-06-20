@@ -9,7 +9,7 @@ This is a repo for the purpose of documenting my journey. Enjoy.
 ## Shortcuts
 
 Section | Notes
-:-- | :--:
+:-- | :--
 [Books I Read Available on Amazon](https://theworld365.github.io#books-i-read-available-on-amazon) | These books are good. There are hundreds of others out there. Start here. Find your own...
 [Books in PDF format](https://theworld365.github.io#books-in-pdf-format) | Books I plan to read when I have free time. Or use when working on a project.
 [Public Datasets](https://theworld365.github.io#public-datasets) | These are public data sets that I've used, will use or I've seen others use.
@@ -28,7 +28,7 @@ Section | Notes
 These books are good. There are hundreds of others out there. Start here. Find your own...
 
 Subject | Title
-:-- | :--:
+:-- | :--
 Machine Learning | [Hands-on Unsupervised Learning Using Python](https://www.amazon.com/Hands-Unsupervised-Learning-Using-Python/dp/1492035645/ref=sr_1_3?crid=2SO9L7TALOG97&dchild=1&keywords=hands-on+unsupervised+learning+using+python&qid=1591993611&sprefix=hands-on+un%2Caps%2C297&sr=8-3){:target="_blank"}
 Machine Learning | [Deep Learning a Practitioner's Approach](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254/ref=sr_1_1?crid=3OC8D41IMFZDZ&dchild=1&keywords=deep+learning+a+practitioner%27s+approach&qid=1591993780&sprefix=Deep+Learning+a+%2Caps%2C204&sr=8-1){:target="_blank"}
 Machine Learning | [Machine Learning for Predictive Data Analytics](https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0262029448/ref=sr_1_2?crid=1P1UJK4863V9E&dchild=1&keywords=fundamentals+of+machine+learning+for+predictive+data+analytics&qid=1591993879&sprefix=fundamentals+of+machine+learning%2Caps%2C199&sr=8-2){:target="_blank"}
@@ -57,14 +57,14 @@ Books I plan to read when I have free time. Or use when working on a project.
 These are public data sets that I've used, will use or I've seen others use.
 
 Agency | Department | Title
-:-- | :--: | :--:
+:-- | :-- | :--
 CDC | NSFG | [National Survey of Family Growth](https://www.icpsr.umich.edu/icpsradmin/nsfg/index?studyNumber=9999){:target="_blank"}
 
 ## MOOC Education
 These sites offer additional education at great prices (sometimes free)
 
 Site | Interest | Notes
-:-- | :--: | :--:
+:-- | :-- | :--
 Udacity | [The School of Data Science](https://www.udacity.com/school-of-data-science){:target="_blank"} | High rates, expensive
 Kaggle | [Data Science Education](https://www.kaggle.com/learn/overview){:target="_blank"} | Challenges, datasets, and competitions
 ClassCentral | [Data Science Courses](https://www.classcentral.com/subject/data-science){:target="_blank"} | Tracks the best ranked online courses
@@ -83,7 +83,7 @@ Skillshare | [Business Analytics](https://www.skillshare.com/browse/business-ana
 A list of my certifications, badges and certificates achieved throughout my professional career.
 
 Area | Provider | Specialization | Certificate
-:-- | :--: | :--: | :--:
+:-- | :-- | :-- | :--
 AWS | AWS | Certified Cloud Practitioner | [Cert](https://www.youracclaim.com/badges/7b87ef90-2218-4ddc-b557-47f91250b180/public_url){:target="_blank"}
  | | |
 Azure | Microsoft | Architect Professional Certification | [Cert](https://github.com/theworld365/theworld365.github.io/blob/master/certificates/AZ-300AzureArchitectTechnol-Nuno.Roberto.pdf){:target="_blank"}
@@ -116,7 +116,7 @@ DS | IBM | Data Science Professional Certification | [Cert](https://coursera.org
 A list of certifications I plan to complete
 
 Provider | Area | Code | Learning Path | Status
-:-- | :--: | :--: | :--:
+:-- | :-- | :-- | :--
 AWS | Architect | SAA-C02 | [Solutions Architect Associate Certification](https://cloudacademy.com/learning-paths/aws-solutions-architect-associate-saa-c02-certification-preparation-954/){:target="_blank"} | In Progress
 AWS | Architect | | [Solutions Architect – Professional Certification](https://cloudacademy.com/learning-paths/solutions-architect-professional-certification-preparation-for-aws-2019-377/){:target="_blank"} | In Progress
 AWS | SysOps | | [SysOps Administrator – Associate Certification](https://cloudacademy.com/learning-paths/sysops-administrator-associate-certification-preparation-for-aws-2018-295/){:target="_blank"} | In Progress
@@ -134,7 +134,7 @@ AWS | Alexa | | [Alexa Skill Builder] | TBD
 I'm planning to take these specializations as part of my ongoing education. I will update the certificates or credentials as soon as I finish the specialization.
 
 Area | University | Specialization | Certificate
-:-- | :--: | :--: | :--:
+:-- | :-- | :-- | :--
 Data Science | [Rice University](https://www.rice.edu/){:target="_blank"} | [Business Statistics and Analysis Specialization](https://www.coursera.org/specializations/business-statistics-analysis){:target="_blank"} | TBD
 Data Science | [Wharton](https://online.wharton.upenn.edu/){:target="_blank"} | [Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics){:target="_blank"} | TBD
 Data Science | [UC Stanta Cruz](https://www.ucsc.edu/){:target="_blank"} | [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics){:target="_blank"} | TBD
